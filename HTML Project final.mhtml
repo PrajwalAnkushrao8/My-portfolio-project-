@@ -1,0 +1,433 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///F:/intelliment%20project/portfolio.html#
+Subject: HTML Project
+Date: Fri, 17 Mar 2023 10:36:41 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--MiJ3WUPR3Y6eEontO2PMkFOyZJceHxLbO1b4C2eCbI----"
+
+
+------MultipartBoundary--MiJ3WUPR3Y6eEontO2PMkFOyZJceHxLbO1b4C2eCbI----
+Content-Type: text/html
+Content-ID: <frame-C21235EAFD75DE0D798745CC7EB07401@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///F:/intelliment%20project/portfolio.html#
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+=09
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0">
+	<title>HTML Project</title>
+</head>
+
+<body>
+	<!--Header(start)-->
+	<table id=3D"header" border=3D"0" width=3D"100%" cellpadding=3D"0" cellspa=
+cing=3D"0" bgcolor=3D"#4CAF50">
+		<tbody><tr>
+			<td>
+				<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" width=3D"90%" =
+align=3D"center">
+					<tbody><tr>
+						<td>
+						=09
+
+						</td>
+
+						<td>
+							<font face=3D"Comic sans MS" size=3D"6">
+								<b>Prajwal Vijay Ankushrao</b>
+							</font>
+						</td>
+
+						<td width=3D"15%">
+						=09
+						</td>
+
+						<td>
+							<a href=3D"file:///F:/intelliment%20project/portfolio.html#home" sty=
+le=3D"text-decoration:none">
+								<font face=3D"Verdana" size=3D"5" color=3D"black">
+									Home
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href=3D"file:///F:/intelliment%20project/portfolio.html#about" st=
+yle=3D"text-decoration:none">
+								<font face=3D"Verdana" size=3D"5" color=3D"black">
+									About
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href=3D"file:///F:/intelliment%20project/portfolio.html#projects"=
+ style=3D"text-decoration:none">
+								<font face=3D"Verdana" size=3D"5" color=3D"black">
+									Projects
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href=3D"file:///F:/intelliment%20project/portfolio.html#achieveme=
+nts" style=3D"text-decoration:none">
+								<font face=3D"Verdana" size=3D"5" color=3D"black">
+									Achievements
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href=3D"file:///F:/intelliment%20project/portfolio.html#contact" =
+style=3D"text-decoration:none">
+								<font face=3D"Verdana" size=3D"5" color=3D"black">
+									Contact
+								</font>
+							</a>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!--Header(end)-->
+
+	<!--Home(start)-->
+	<table id=3D"home" border=3D"1" width=3D"100%" cellpadding=3D"20" cellspac=
+ing=3D"0" bgcolor=3D"black">
+		<tbody><tr>
+			<td>
+				<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" width=3D"90%" =
+align=3D"center">
+					<tbody><tr>
+						<td align=3D"center" valign=3D"middle">
+							<h3>
+								<font face=3D"Times New Roman" size=3D"6" color=3D"#ffffff">
+									Welcome to my portfolio!
+								</font>
+							</h3>
+
+							<h2>
+								<font face=3D"Verdana" size=3D"6" color=3D"#4CAF50">
+									<!-- Freelance Programmer -->
+								</font>
+							</h2>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!--Home(end)-->
+
+
+	<!--About(start)-->
+	<table id=3D"about" border=3D"0" width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" bgcolor=3D"black">
+		<tbody><tr>
+			<td>
+				<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" width=3D"80%" =
+align=3D"center">
+					<tbody><tr>
+						<td height=3D"180" align=3D"center" valign=3D"middle" colspan=3D"2">
+							<font face=3D"Verdana" size=3D"7" color=3D"#4CAF50">
+								About Me
+							</font>
+							<hr color=3D"#4CAF50" width=3D"90">
+						</td>
+					</tr>
+
+					<tr>
+						<td width=3D"40%">
+							<img src=3D"file:///F:/intelliment%20project/img.png">
+						</td>
+
+						<td width=3D"60%">
+							<font face=3D"Verdana" size=3D"4" color=3D"white">
+								As an IT fresher with a passion for technology and a strong foundat=
+ion in programming languages like HTML, CSS, C++, Python, Docker, and JavaS=
+cript, I am eager to apply my skills and knowledge to real-world challenges=
+ in the IT industry.
+								<hr color=3D"white">
+								I have completed several projects during my academic career that ha=
+ve given me hands-on experience in web development, software engineering, a=
+nd cloud computing. I am excited to continue learning and growing in my fie=
+ld and to collaborate with experienced professionals to solve complex probl=
+ems.
+								<hr color=3D"white">
+
+								I am a quick learner and thrive in team environments where I can co=
+ntribute my skills and learn from others. I am dedicated to staying up-to-d=
+ate with the latest trends and technologies in the IT industry and am commi=
+tted to continuous learning and improvement.
+								<hr color=3D"white">
+
+							If you are seeking a motivated, enthusiastic, and skilled IT fresher=
+ who is ready to make a positive contribution to your team, please feel fre=
+e to reach out to me. I am excited to explore opportunities that will allow=
+ me to leverage my skills and knowledge to contribute to the success of you=
+r organization.
+								<br>
+							=09
+							</font>
+						</td>
+					</tr>
+				</tbody></table>
+				<hr color=3D"black">
+				<hr color=3D"black">
+				<hr color=3D"black">
+			</td>
+		</tr>
+	</tbody></table>
+	<!--About(end)-->
+
+
+	<!--Projects(start)-->
+	<table id=3D"projects" border=3D"0" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" bgcolor=3D"#c2c0c3">
+		<tbody><tr>
+			<td>
+				<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" width=3D"80%" =
+align=3D"center">
+					<tbody><tr>
+						<td height=3D"180" align=3D"center" valign=3D"middle" colspan=3D"2">
+							<font face=3D"Verdana" size=3D"7" color=3D"black">
+								Projects
+							</font>
+							<hr color=3D"black" width=3D"90">
+						</td>
+					</tr>
+
+					<tr>
+						<td height=3D"10">
+							<font face=3D"Times New Roman" size=3D"5" color=3D"black">
+								<ul>
+									<li>
+									Electric Power Generation Using Footsteps =E2=80=94
+										<a href=3D"file:///F:/intelliment%20project/portfolio.html#" styl=
+e=3D"text-decoration:none">
+											 =E2=9E=B2
+										</a>
+									</li>
+
+									<li>
+										<hr color=3D"#c2c0c3">
+TRAFFIC LIGHT CONTROL SYSTEM USING=20
+ARDUINO
+										<a href=3D"file:///F:/intelliment%20project/portfolio.html#" styl=
+e=3D"text-decoration:none" color=3D"#c2c0c3">
+											 =E2=9E=B2
+										</a>
+									</li>
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+
+								=09
+								</ul>
+								<hr color=3D"#c2c0c3">
+								<hr color=3D"#c2c0c3">
+								<hr color=3D"#c2c0c3">
+								<hr color=3D"#c2c0c3">
+							</font>
+						</td>
+
+						<td width=3D"45%">
+						=09
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!--Projects(end)-->
+
+	<!--Achievement(start)-->
+	<table id=3D"achievements" border=3D"0" width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" bgcolor=3D"black">
+		<tbody><tr>
+			<td>
+				<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" width=3D"80%" =
+align=3D"center">
+					<tbody><tr>
+						<td height=3D"180" align=3D"center" valign=3D"middle">
+							<font face=3D"Verdana" size=3D"7" color=3D"#4CAF50">
+								Achievements
+								<hr color=3D"#4CAF50" width=3D"100">
+							</font>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face=3D"Verdana" size=3D"4" color=3D"white">
+								<ul>
+									<li>
+										<b>Selected In National Basketball team</b>
+									=09
+									</li>
+
+									<li>
+									=09
+									=09
+										<hr color=3D"white">
+										<b>Won various basketball competition at district level</b>
+									=09
+									</li>
+
+									<li>
+									=09
+									=09
+										<hr color=3D"white">
+										<b>Won Football, Kabaddi and runner up in Volleyball at=20
+college level.</b>
+									=09
+									</li>
+
+								</ul>
+
+							</font>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!--Achievement(end)-->
+
+
+	<!--Contact(start)-->
+=09
+	<!--Contact(end)-->
+
+
+	<!--Footer1(start)-->
+	<table id=3D"footer" border=3D"0" width=3D"100%" cellpadding=3D"0" cellspa=
+cing=3D"0" bgcolor=3D"#4CAF50">
+		<tbody><tr>
+			<td>
+				<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" width=3D"90%" =
+align=3D"center">
+					<tbody><tr>
+						<td width=3D"13%" valign=3D"top">
+							<b>LinkedIn</b>
+							<a href=3D"file:///F:/intelliment%20project/linkedin.com/in/dktepraj=
+walankushrao" style=3D"text-decoration:none">
+								=E2=9E=B2
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width=3D"13%" valign=3D"top">
+							<b>GitHub</b>
+							<a href=3D"file:///F:/intelliment%20project/portfolio.html#" style=
+=3D"text-decoration:none">
+								=E2=9E=B2
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+					=09
+
+					=09
+
+					=09
+
+					=09
+
+					=09
+
+					=09
+
+					=09
+
+					=09
+
+						<td width=3D"13%" valign=3D"top">
+							<b>Email</b>
+							<a href=3D"file:///F:/intelliment%20project/portfolio.html#" style=
+=3D"text-decoration:none">
+								=E2=9E=B2
+							</a>
+						</td>
+
+					=09
+
+					=09
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!--Footer1(end)-->
+
+
+	<!--Footer2(start)-->
+	<table id=3D"footer" border=3D"0" width=3D"100%" cellpadding=3D"0" cellspa=
+cing=3D"0" bgcolor=3D"black">
+		<tbody><tr>
+			<td>
+				<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" width=3D"90%" =
+align=3D"center">
+					<tbody><tr>
+					=09
+
+					=09
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!--Footer2(end)-->
+
+
+
+
+</body></html>
+------MultipartBoundary--MiJ3WUPR3Y6eEontO2PMkFOyZJceHxLbO1b4C2eCbI------
